@@ -1,0 +1,5 @@
+# Auth Log Triage Tool - Python dependencies
+# Requires Python 3.10 or newer (the notebook uses the "dict | None" type hint).
+# re, json, os and datetime are part of the Python standard library, so they are not listed.
+pandas>=2.0
+notebook  # only needed to run the notebook locally; not needed in Google Colab

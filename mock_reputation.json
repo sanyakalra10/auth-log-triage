@@ -1,0 +1,23 @@
+{
+  "_note": "SYNTHETIC test data only. Scores are made up for practice; they are not real threat intelligence.",
+  "203.0.113.45": {
+    "abuse_confidence": 92,
+    "reports": 310,
+    "note": "repeated SSH brute-force reports (fake)"
+  },
+  "198.51.100.77": {
+    "abuse_confidence": 78,
+    "reports": 140,
+    "note": "SSH login attacks (fake)"
+  },
+  "192.0.2.10": {
+    "abuse_confidence": 35,
+    "reports": 22,
+    "note": "port/user scanning (fake)"
+  },
+  "10.0.0.15": {
+    "abuse_confidence": 0,
+    "reports": 0,
+    "note": "internal address"
+  }
+}
